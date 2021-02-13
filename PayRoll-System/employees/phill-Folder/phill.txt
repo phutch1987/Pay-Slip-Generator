@@ -1,0 +1,4 @@
+Name: phill
+Position: boss
+Salary (Per Hour): 34.0
+Tax: 0.5

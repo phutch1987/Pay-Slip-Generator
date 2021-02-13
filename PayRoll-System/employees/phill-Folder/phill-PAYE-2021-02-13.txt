@@ -1,0 +1,9 @@
+Pay Slip Date: 2021-02-13
+phill
+Salary: 34.0
+Hours Worked: 65.0
+Over-Time: 14.0
+Pay: 2924.0
+Tax: 0.5
+Taxed-Income: 1462.0
+Net-Pay: 1462.0
